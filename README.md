@@ -1,2 +1,2 @@
 # singhgaga.github.io
-A personal portfolio webpage 
+Gagandeep's portfolio webpage 
